@@ -152,11 +152,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 35524411}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 112f399fb24c3334885828d52535411e, type: 3}
+  m_Script: {fileID: 11500000, guid: e5f1cf3b931322a418bd07203d852868, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1.5
-  angle: 20
+  angle: 35
 --- !u!64 &35524414
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -698,11 +698,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 812863208}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 112f399fb24c3334885828d52535411e, type: 3}
+  m_Script: {fileID: 11500000, guid: e5f1cf3b931322a418bd07203d852868, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1.5
-  angle: 20
+  angle: 35
 --- !u!64 &812863210
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -861,11 +861,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1066590090}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 112f399fb24c3334885828d52535411e, type: 3}
+  m_Script: {fileID: 11500000, guid: e5f1cf3b931322a418bd07203d852868, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1.5
-  angle: 20
+  angle: 35
 --- !u!64 &1066590092
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -983,11 +983,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1077457836}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 112f399fb24c3334885828d52535411e, type: 3}
+  m_Script: {fileID: 11500000, guid: e5f1cf3b931322a418bd07203d852868, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1.5
-  angle: 20
+  angle: 35
 --- !u!64 &1077457838
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1121,11 +1121,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1180439778}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 112f399fb24c3334885828d52535411e, type: 3}
+  m_Script: {fileID: 11500000, guid: e5f1cf3b931322a418bd07203d852868, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1.5
-  angle: 20
+  angle: 35
 --- !u!64 &1180439781
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1243,11 +1243,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1195171739}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 112f399fb24c3334885828d52535411e, type: 3}
+  m_Script: {fileID: 11500000, guid: e5f1cf3b931322a418bd07203d852868, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1.5
-  angle: 20
+  angle: 35
 --- !u!64 &1195171742
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1785,11 +1785,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1742819047}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 112f399fb24c3334885828d52535411e, type: 3}
+  m_Script: {fileID: 11500000, guid: e5f1cf3b931322a418bd07203d852868, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1.5
-  angle: 20
+  angle: 35
 --- !u!64 &1742819049
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2020,7 +2020,7 @@ Camera:
   m_GameObject: {fileID: 1835722697}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
+  m_ClearFlags: 2
   m_BackGroundColor: {r: 0, g: 0, b: 0, a: 1}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
@@ -2362,11 +2362,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 2137314025}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 112f399fb24c3334885828d52535411e, type: 3}
+  m_Script: {fileID: 11500000, guid: e5f1cf3b931322a418bd07203d852868, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1.5
-  angle: 20
+  angle: 35
 --- !u!64 &2137314027
 MeshCollider:
   m_ObjectHideFlags: 0

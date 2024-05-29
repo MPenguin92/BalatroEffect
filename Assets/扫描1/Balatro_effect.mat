@@ -38,6 +38,6 @@ Material:
     - _BorderCol: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Foil: {r: 1.8, g: 13, b: 0, a: 0}
-    - _ImageDetails: {r: 71, g: 152, b: 49, a: -529.6}
-    - _TextureDetails: {r: 0.05, g: 0.34, b: 71, a: 95}
+    - _ImageDetails: {r: 71, g: 93.55, b: 49, a: -529.6}
+    - _TextureDetails: {r: 0.05, g: 0, b: 71, a: 95}
   m_BuildTextureStacks: []
